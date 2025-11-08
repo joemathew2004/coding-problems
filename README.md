@@ -37,7 +37,7 @@ coding-problems/
 │   ├── matrix_addition.py
 │   └── balanced_braces.py
 ├── README.md
-└── requirements.txt
+
 ```
 
 ## Usage
