@@ -1,2 +1,0 @@
-# No external dependencies required
-# All solutions use Python standard library only
